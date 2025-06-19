@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Role-AI%20Researcher-blue" />
   <img src="https://img.shields.io/badge/Focus-GenAI%2C%20CV%2C%20Multimodal-brightgreen" />
+  <a href="https://linkedin.com/in/aniket-zope">
   <img src="https://img.shields.io/badge/Open%20to-Collaborations-orange" />
+</a>
 </p>
 
 ---
